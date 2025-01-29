@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @EnzzoZ1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!---
-EnzzoZ1/EnzzoZ1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Hello World! I'm Enzzo, welcome to my github profile.
+</p>
+
+<p align="left">
+  🦄 Linguagens: **Typescript, css, html, python, SQLServer**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Angular, NestJS, React, Flutter, PostgreSQL**
+</p>
