@@ -39,30 +39,6 @@
 
 <br>
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzzoz1&show_icons=true)
-
-<br>
-
-<p align="left">
-  💬 You can contact me using the methods below: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=enzzolaoliveira08@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzzo-oliveira/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/17996668244?text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20LinkedIn" alt="WhatsApp"/></a>
-
-  <br>
-
-  ---
-
-  ## Olá, meu nome é {seu nome}!
-
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -91,6 +67,26 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="left">
+  💬 You can contact me using the methods below: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=enzzolaoliveira08@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzzo-oliveira/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/17996668244?text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20LinkedIn" alt="WhatsApp"/></a>
+
+  <br>
+
+
+
+
 
 --- 
 
