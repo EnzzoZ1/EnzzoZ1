@@ -18,16 +18,18 @@
 <p align="left"> 
 🔭 I have developed projects such as:
 
-- A website for citizens of a city to request services provided by public organizations in a more practical and agile way
+- I'm currently developing a project on "Cryptocurrency Prediction with Artificial Intelligence".
 
-- I also developed the same project for mobile phones using Flutter and Firebase
+- A website and mobile app for citizens to request services provided by public organizations of a city.
 
 - A website for calisthenics lovers using technologies such as Angular, NestJS, Firebase, and much more
 </p>
 
 <br>
 
-## 🚀 My Skills
+---
+
+### 🚀 My Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -37,7 +39,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
-<br>
+---
 
 ### ⚙️ GitHub Analytics
 
@@ -68,11 +70,9 @@
   </tr>
 </table>
 
-<br>
+---
 
-<p align="left">
-  💬 You can contact me using the methods below: ⤵️
-</p>
+  ### 💬 You can contact me using the methods below: ⤵️
 
 <p align="left">
   <a href="#" title="Gmail">
@@ -83,10 +83,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/17996668244?text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20LinkedIn" alt="WhatsApp"/></a>
 
   <br>
-
-
-
-
 
 --- 
 
