@@ -152,13 +152,6 @@ Projeto acadêmico voltado à análise preditiva de séries temporais no mercado
         alt="GitHub streak"
       />
     </td>
-    <td>
-      <br />
-        <a href="https://wa.me/17996668244?text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20LinkedIn" title="WhatsApp">
-        <a href="https://wa.me/17996668244?text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20Github" title="WhatsApp">
-        <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-        </a>
-      </td>
   </tr>
 </table>
 
@@ -172,6 +165,9 @@ Projeto acadêmico voltado à análise preditiva de séries temporais no mercado
   </a>
   <a href="https://github.com/EnzzoZ1" title="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://wa.me/17996668244?text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20Github" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="mailto:enzzolaoliveira08@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
