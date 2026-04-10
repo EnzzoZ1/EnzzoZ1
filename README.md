@@ -146,11 +146,7 @@ Projeto acadêmico voltado à análise preditiva de séries temporais no mercado
     </td>
     <td>
       <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=enzzoz1&theme=dark&hide_border=false"
-        alt="GitHub streak"
-      />
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EnzzoZ1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
