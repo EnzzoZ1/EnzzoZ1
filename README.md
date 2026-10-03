@@ -1,8 +1,8 @@
 # Enzzo Oliveira
 
-**Analista de Dados** · Python · SQL · Power BI · Machine Learning · MBA em Data Science & Analytics (USP/Esalq)
+**Analista de Dados** · Python · SQL · Power BI · Power Platform · MBA em Data Science & Analytics (USP/Esalq)
 
-Transformo dados de ERP em indicadores, dashboards e automações que a liderança usa para decidir, com foco em **financeiro, faturamento e risco**. Venho de desenvolvimento de sistemas, e por isso me interessa levar modelos até a produção: API, container, agendamento e monitoramento, e não só o notebook.
+Transformo dados de ERP em indicadores, dashboards e automações que a liderança usa para decidir, com foco em **financeiro, faturamento e risco**. Também cuido do ambiente Microsoft 365 da empresa, participo da implantação do Dynamics 365 Sales e mantenho serviços internos em servidor Linux. Venho de desenvolvimento de sistemas, e por isso me interessa levar modelos até a produção: API, container, agendamento e monitoramento, e não só o notebook.
 
 📍 São José do Rio Preto, SP · 🎯 Rumo a **Ciência de Dados aplicada a finanças e crédito**
 
@@ -13,11 +13,10 @@ Transformo dados de ERP em indicadores, dashboards e automações que a lideran�
 **Makfil**, dados (dez/2025 – atual)
 - Consultas SQL direto no banco do ERP e dashboards em **Power BI**, publicados no Power BI Service para a diretoria
 - Indicadores das áreas financeira, de faturamento, operação, pessoas e comercial
-- Automação de processos com **n8n**, Power Automate e Pluga
-- Apoio à implantação de ferramentas internas: CRM, agentes de IA e serviços em servidor Linux
-
-**Seven AI / 7AI**, desenvolvimento de agentes de IA
-- Agentes de automação com LLMs para empresas e pessoas, e manutenção de serviços em VPS
+- Administração do ambiente **Microsoft 365**: usuários, licenças, grupos, Exchange, SharePoint, Teams e Entra ID
+- Participação na implantação do **Dynamics 365 Sales** (Power Apps model-driven, Dataverse e regras de negócio)
+- Implantação de serviços em **VPS Linux** com Docker e Portainer: n8n, Chatwoot, PostgreSQL e pgAdmin
+- Automações com **n8n**, Power Automate e Pluga, incluindo integração com a **Microsoft Graph API** e agentes de IA
 
 **Emurb**, estágio (abr/2023 – abr/2025)
 - Relatórios em Excel e Power Query, apoio à análise de cobranças e à conciliação diária
@@ -35,7 +34,7 @@ Transformo dados de ERP em indicadores, dashboards e automações que a lideran�
 
 | Projeto | Stack | Links |
 |---|---|---|
-| **AjudaRP**: plataforma para cidadãos solicitarem serviços públicos (TCC da Fatec) | HTML/CSS/JS, Flutter, Firebase | [web](https://github.com/EnzzoZ1/ajudarp_web) · [app](https://github.com/EnzzoZ1/ajudarp_flutter) · [demo](https://capable-maamoul-532213.netlify.app/) |
+| **AjudaRP**: plataforma para cidadãos solicitarem serviços públicos (projeto interdisciplinar, Fatec) | HTML/CSS/JS, Flutter, Firebase | [web](https://github.com/EnzzoZ1/ajudarp_web) · [app](https://github.com/EnzzoZ1/ajudarp_flutter) · [demo](https://capable-maamoul-532213.netlify.app/) |
 
 ---
 
@@ -43,8 +42,9 @@ Transformo dados de ERP em indicadores, dashboards e automações que a lideran�
 
 - **Dados:** Python (pandas, scikit-learn), SQL (SQL Server, MySQL, PostgreSQL), Excel e Power Query
 - **BI:** Power BI (DAX, Power BI Service), Looker Studio
-- **Automação e IA:** n8n, Power Automate, agentes com LLMs
-- **Engenharia:** Git, Linux (Ubuntu Server), Docker, VPS
+- **Automação e IA:** n8n, Power Automate, Microsoft Graph API, agentes com LLMs
+- **Microsoft:** administração do Microsoft 365 (Entra ID, Exchange, SharePoint, Teams), Power Apps (model-driven), Dataverse, Dynamics 365 Sales
+- **Engenharia:** Git, Linux (Ubuntu Server), Docker, Portainer, PostgreSQL, VPS
 - **Desenvolvimento:** JavaScript, Flutter/Dart, Firebase
 
 ## Formação
