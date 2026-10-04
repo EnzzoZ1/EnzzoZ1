@@ -1,6 +1,6 @@
 # Enzzo Oliveira
 
-**Analista de Dados** · Python · SQL · Power BI · Power Platform · MBA em Data Science & Analytics (USP/Esalq)
+**Assistente de Análise de Dados III** · Python · SQL · Power BI · Power Platform · MBA em Data Science & Analytics (USP/Esalq)
 
 Transformo dados de ERP em indicadores, dashboards e automações que a liderança usa para decidir, com foco em **financeiro, faturamento e risco**. Também cuido do ambiente Microsoft 365 da empresa, participo da implantação do Dynamics 365 Sales e mantenho serviços internos em servidor Linux. Venho de desenvolvimento de sistemas, e por isso me interessa levar modelos até a produção: API, container, agendamento e monitoramento, e não só o notebook.
 
@@ -10,7 +10,11 @@ Transformo dados de ERP em indicadores, dashboards e automações que a lideran�
 
 ## O que faço hoje
 
-**Makfil**, dados (dez/2025 – atual)
+**Makfil**, setor de Dados e Tecnologia da área Comercial
+- **Assistente de Análise de Dados III** (abr/2026 – atual)
+- **Auxiliar de Dados II** (dez/2025 – abr/2026)
+
+Principais atividades:
 - Consultas SQL direto no banco do ERP e dashboards em **Power BI**, publicados no Power BI Service para a diretoria
 - Indicadores das áreas financeira, de faturamento, operação, pessoas e comercial
 - Administração do ambiente **Microsoft 365**: usuários, licenças, grupos, Exchange, SharePoint, Teams e Entra ID
