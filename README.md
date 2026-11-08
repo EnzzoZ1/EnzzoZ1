@@ -20,7 +20,7 @@ Principais atividades:
 - Administração do ambiente **Microsoft 365**: usuários, licenças, grupos, Exchange, SharePoint, Teams e Entra ID
 - Participação na implantação do **Dynamics 365 Sales** (Power Apps model-driven, Dataverse e regras de negócio)
 - Implantação de serviços em **VPS Linux** com Docker e Portainer: n8n, Chatwoot, PostgreSQL e pgAdmin
-- Automações com **n8n**, Power Automate e Pluga, incluindo integração com a **Microsoft Graph API** e agentes de IA
+- Automações com **n8n** e Power Automate, incluindo integração com a **Microsoft Graph API** e agentes de IA
 
 **Emurb**, estágio (abr/2023 – abr/2025)
 - Relatórios em Excel e Power Query, apoio à análise de cobranças e à conciliação diária
